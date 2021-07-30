@@ -1,0 +1,46 @@
+.home_content1 {
+    font-family: 'Anton', sans-serif;
+}
+
+.home_content2 {
+    font-family: 'Bree Serif', serif;
+    margin-top: 5%;
+}
+.btn1 {
+    border: 2px solid #1937dd;
+    border-radius: 45px;
+    background-color: #1937dd;
+    color: white;
+    padding: 10px 25px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
+  .btn1:hover {
+    background: white;
+    color: #1937dd;
+  } 
+
+.btn2 {
+border: 2px solid white;
+border-radius: 45px;
+background-color: white;
+color: black;
+padding: 10px 25px;
+font-size: 16px;
+cursor: pointer;
+}
+
+.info2 {
+border-color: white;
+color: #1937dd;
+}
+
+.info2:hover {
+background: #1937dd;
+color: white;
+}
+
+.footer {
+    margin-top: 30px;
+}

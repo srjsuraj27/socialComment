@@ -1,0 +1,36 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: sans-serif;
+  margin: 0;
+  background-color: #FFF;
+}
+
+.pic {
+  overflow: hidden;
+}
+
+.pic img{ 
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+}
+
+.btn {
+  border: 2px solid #1937dd;
+  border-radius: 45px;
+  background-color: #1937dd;
+  color: white;
+  padding: 10px 25px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.btn:hover {
+  background: white;
+  color: #1937dd;
+} 
